@@ -1,1 +1,1 @@
-# Jaipur-Air-Quality-Index-
+# Jaipur Air Quality Index
